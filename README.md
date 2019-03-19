@@ -1,7 +1,5 @@
-# educational
-Various educational projects.
-
-Online courses and textbooks.
+# Educational resources
+Various educational projects based on online courses and textbooks.
 
 ## func_prog_scala:
 ### Functional programming principles in scala
