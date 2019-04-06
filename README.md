@@ -7,6 +7,11 @@ Various educational projects based on online courses and textbooks.
 - In class exercises and weekly problems.
 - Introduction to scala and functional programming
 
+## ml_intro
+### Machine learning tutorials
+- Python resources created by Ian Davies
+- Git IanRDavies/data-science-tutorials
+
 ## head_first_java:
 ### Object oriented programming in java
 - Textbook course
