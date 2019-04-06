@@ -12,3 +12,9 @@ Various educational projects based on online courses and textbooks.
 - Textbook course
 - Comprehensive coding examples
 - Detailed coverage of OO programming
+
+## python_for_finance
+### Python for finance 2nd edition
+- Textbook course
+- Concepts of Financial data science (financial time series, stochastics)
+- Algorithmic trading (derivatives analytics, simulation of financial models, valuation)
